@@ -1,10 +1,4 @@
-TITLE Project 6     (Proj6_lipej.asm)
 
-; Author: James Lipe
-; Last Modified: 12/06/2020
-; OSU email address: lipej@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 6             Due Date: 12/6/2020
 ; Description:  Prompts a user 10 times to input a string that represents a valid 32 bit signed integer. 
 ;				Validates each number while it is being entered to ensure it is a valid integer and can be stored in 32 bits. 
 ;				The program then displays a list of the entered numbers, the sum of the numbers, and a rounded average of the numbers.
